@@ -20,7 +20,7 @@ To learn more about the `spatialmath-python` package, their [GitHub repository](
 
 Below is a recording of running the notebook:
 
-A recording of running the notebook is available as `spatial_math_usage.mov`
+A recording of running the notebook is available as `spatial_math_usage.mp4`
 
 ### Part 2: Visualizing a Camera Wireframe in Open3D
 
@@ -30,4 +30,4 @@ The script `open3d_animation.py` creates a pyramid wireframe to represent a came
 
 To learn more about the `open3d` package, their [GitHub repository](https://github.com/isl-org/Open3D/tree/main) has a lot of examples: [examples/python](https://github.com/isl-org/Open3D/tree/main/examples/python).
 
-A recording of running the script is available as `open3d_animation_usage.mov`
+A recording of running the script is available as `open3d_animation_usage.mp4`
